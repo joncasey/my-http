@@ -1,0 +1,22 @@
+{
+  "name": "my-http",
+  "version": "1.0.0",
+  "description": "Functions to simplify http requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Jon Casey",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joncasey/my-http"
+  },
+  "keywords": [
+    "download",
+    "http",
+    "https",
+    "html",
+    "scraper"
+  ]
+}
